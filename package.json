@@ -1,0 +1,25 @@
+{
+  "name": "razgovor_bot",
+  "version": "1.0.0",
+  "description": "\"# razgovor\"",
+  "main": "index.js",
+  "scripts": {
+    "start": "node razgovor.py"
+  },
+  "engines":{
+      "node": "8.11.3"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Dykat/razgovor.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Dykat/razgovor/issues"
+  },
+  "homepage": "https://github.com/Dykat/razgovor#readme",
+  "dependencies": {
+    "node-telegram-bot-api": "^0.30.0"
+  }
+}
